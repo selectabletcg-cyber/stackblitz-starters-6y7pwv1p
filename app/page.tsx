@@ -31,7 +31,7 @@ export default function HomePage() {
     <main className="min-h-screen bg-[#0B0B0F] text-white pb-28">
       {/* Top bar */}
       <header className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
-        <div className="text-sm font-semibold tracking-wide">CAPSULE STAGE</div>
+        <div className="text-sm font-semibold tracking-wide">CAPSULE STAGE — VERCEL TEST</div>
         <div className="flex items-center gap-4">
           <a className="text-sm text-white/85 hover:text-white transition" href="/wins">
             My Wins
